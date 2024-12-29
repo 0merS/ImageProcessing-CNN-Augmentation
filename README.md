@@ -1,4 +1,4 @@
-# Image Classification with Convolutional Neural Networks (CNN)
+# Image Classification with Convolutional Neural Networks (CNN)-model-project
 
 Bu proje, görsel sınıflandırma için derin öğrenme kullanarak, farklı hayvan türlerini tanımayı amaçlayan bir modelin geliştirilmesini içermektedir. Proje, 10 farklı hayvan sınıfını içeren bir veri seti üzerinde çalışmaktadır ve bu sınıflandırma, bir Convolutional Neural Network (CNN) modeline dayanmaktadır. Ayrıca, görüntü artırma, renk sabitleme, ve farklı ışık koşullarında testler gibi teknikler kullanılarak modelin doğruluğu artırılmaya çalışılmıştır.
 
