@@ -87,4 +87,4 @@ Model, işık ve renk manipülasyonlarına karşı özel olarak eğitilmiş bir 
 - `scikit-learn`
 - `PIL`
 - `matplotlib`
-
+- `os`
